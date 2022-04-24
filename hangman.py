@@ -1,4 +1,5 @@
 # 独学プログラマ
+# 
 
 def hangman(word):
     wrong = 0
